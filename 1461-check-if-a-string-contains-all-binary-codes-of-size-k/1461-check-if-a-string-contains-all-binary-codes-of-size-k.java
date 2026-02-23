@@ -1,21 +1,25 @@
 class Solution {
     public boolean hasAllCodes(String s, int k) {
-        Set<String> set = new HashSet<>();
         int n = s.length();
-        for(int i=0;i<n;i++){
-            StringBuilder sb = new StringBuilder();
-            for(int j=i;j<n;j++){
-                sb.append(s.charAt(j));
-                if(j-i+1==k){
-                    set.add(sb.toString());
-                }
-                if(j-i+1>k){
-                    break;
-                }
-                
+        if(n<k) return false;
+        int size = 1<<k;
+        boolean[] seen = new boolean[size];
+        int cnt = 0;
+        int hash = 0;
+        for(int i=0;i<k;i++){
+            hash = (hash << 1) | (s.charAt(i)-'0');
+        }
+        seen[hash] = true;
+        cnt++;
+        int mask = size-1;
+        for(int i=k;i<n;i++){
+            hash = ((hash << 1)&mask) | (s.charAt(i)-'0');
+            if(!seen[hash]){
+                seen[hash] = true;
+                cnt++;
+                if(cnt==size) return true;
             }
         }
-        return set.size() == Math.pow(2,k);
-
+        return cnt == size;
     }
 }
