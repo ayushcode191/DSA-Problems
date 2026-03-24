@@ -23,12 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ayushcode191/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2906-construct-product-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushcode191/DSA-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ayushcode191/DSA-Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2906-construct-product-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushcode191/DSA-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ayushcode191/DSA-Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Hash Table
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/ayushcode191/DSA-Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2906-construct-product-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 <!---LeetCode Topics End-->
