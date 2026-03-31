@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ayushcode191/DSA-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ayushcode191/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ayushcode191/DSA-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ayushcode191/DSA-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ayushcode191/DSA-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushcode191/DSA-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Two Pointers
