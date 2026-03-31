@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2485-find-the-pivot-integer](https://github.com/ayushcode191/DSA-Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2906-construct-product-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Enumeration
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2485-find-the-pivot-integer](https://github.com/ayushcode191/DSA-Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushcode191/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
