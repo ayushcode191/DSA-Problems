@@ -8,8 +8,8 @@ class Solution {
         PriorityQueue<String> pq = new PriorityQueue<>(
             (a,b) -> map.get(a)==map.get(b) ? a.compareTo(b) : map.get(b)-map.get(a)
         );
-        for(String word : words){
-            if(!pq.contains(word)) pq.offer(word);
+        for(String word : map.keySet()){
+            pq.offer(word);
         }
 
         List<String> ans = new ArrayList<>();
