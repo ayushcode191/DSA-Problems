@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/ayushcode191/DSA-Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayushcode191/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayushcode191/DSA-Problems/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ayushcode191/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayushcode191/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayushcode191/DSA-Problems/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/ayushcode191/DSA-Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushcode191/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayushcode191/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
