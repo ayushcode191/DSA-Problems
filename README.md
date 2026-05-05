@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/ayushcode191/DSA-Problems/tree/main/0061-rotate-list/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ayushcode191/DSA-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ayushcode191/DSA-Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Prefix Sum
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/ayushcode191/DSA-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0146-lru-cache](https://github.com/ayushcode191/DSA-Problems/tree/main/0146-lru-cache/) | Medium |
 ## Design
 | Problem Name | Difficulty |
