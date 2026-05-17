@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/ayushcode191/DSA-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1306-jump-game-iii](https://github.com/ayushcode191/DSA-Problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ayushcode191/DSA-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ayushcode191/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -127,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/ayushcode191/DSA-Problems/tree/main/0547-number-of-provinces/) | Medium |
+| [1306-jump-game-iii](https://github.com/ayushcode191/DSA-Problems/tree/main/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/ayushcode191/DSA-Problems/tree/main/0547-number-of-provinces/) | Medium |
+| [1306-jump-game-iii](https://github.com/ayushcode191/DSA-Problems/tree/main/1306-jump-game-iii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
