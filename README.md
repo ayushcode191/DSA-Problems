@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/ayushcode191/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayushcode191/DSA-Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayushcode191/DSA-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayushcode191/DSA-Problems/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushcode191/DSA-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2906-construct-product-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushcode191/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayushcode191/DSA-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushcode191/DSA-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ayushcode191/DSA-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/ayushcode191/DSA-Problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushcode191/DSA-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayushcode191/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayushcode191/DSA-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
