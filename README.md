@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/ayushcode191/DSA-Problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ayushcode191/DSA-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushcode191/DSA-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ayushcode191/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayushcode191/DSA-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
