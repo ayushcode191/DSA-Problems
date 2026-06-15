@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ayushcode191/DSA-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ayushcode191/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushcode191/DSA-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushcode191/DSA-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushcode191/DSA-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/ayushcode191/DSA-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ayushcode191/DSA-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ayushcode191/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/ayushcode191/DSA-Problems/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushcode191/DSA-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushcode191/DSA-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushcode191/DSA-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
