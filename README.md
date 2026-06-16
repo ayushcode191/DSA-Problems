@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayushcode191/DSA-Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayushcode191/DSA-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayushcode191/DSA-Problems/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayushcode191/DSA-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayushcode191/DSA-Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushcode191/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Array
 | Problem Name | Difficulty |
