@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/ayushcode191/DSA-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayushcode191/DSA-Problems/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/ayushcode191/DSA-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/ayushcode191/DSA-Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushcode191/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
