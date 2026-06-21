@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ayushcode191/DSA-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushcode191/DSA-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/ayushcode191/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ayushcode191/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayushcode191/DSA-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ayushcode191/DSA-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/ayushcode191/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ayushcode191/DSA-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushcode191/DSA-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Two Pointers
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/ayushcode191/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -240,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushcode191/DSA-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ayushcode191/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
