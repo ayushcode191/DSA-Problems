@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ayushcode191/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0118-pascals-triangle](https://github.com/ayushcode191/DSA-Problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0283-move-zeroes](https://github.com/ayushcode191/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ayushcode191/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/ayushcode191/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/ayushcode191/DSA-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ayushcode191/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushcode191/DSA-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
