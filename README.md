@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/ayushcode191/DSA-Problems/tree/main/0118-pascals-triangle/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/ayushcode191/DSA-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/ayushcode191/DSA-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ayushcode191/DSA-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/ayushcode191/DSA-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0263-ugly-number](https://github.com/ayushcode191/DSA-Problems/tree/main/0263-ugly-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayushcode191/DSA-Problems/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ayushcode191/DSA-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
