@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayushcode191/DSA-Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayushcode191/DSA-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ayushcode191/DSA-Problems/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ayushcode191/DSA-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/ayushcode191/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2563-count-the-number-of-fair-pairs](https://github.com/ayushcode191/DSA-Problems/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushcode191/DSA-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushcode191/DSA-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Two Pointers
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ayushcode191/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
