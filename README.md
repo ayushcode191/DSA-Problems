@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/ayushcode191/DSA-Problems/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ayushcode191/DSA-Problems/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayushcode191/DSA-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/ayushcode191/DSA-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/ayushcode191/DSA-Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushcode191/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/ayushcode191/DSA-Problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ayushcode191/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ayushcode191/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
