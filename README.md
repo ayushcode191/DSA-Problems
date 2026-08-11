@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayushcode191/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/ayushcode191/DSA-Problems/tree/main/0118-pascals-triangle/) | Easy |
+| [0189-rotate-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ayushcode191/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/ayushcode191/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ayushcode191/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushcode191/DSA-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0189-rotate-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ayushcode191/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ayushcode191/DSA-Problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushcode191/DSA-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/ayushcode191/DSA-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/ayushcode191/DSA-Problems/tree/main/0060-permutation-sequence/) | Hard |
+| [0189-rotate-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/ayushcode191/DSA-Problems/tree/main/0263-ugly-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/ayushcode191/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
