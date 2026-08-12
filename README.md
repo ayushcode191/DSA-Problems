@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ayushcode191/DSA-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ayushcode191/DSA-Problems/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0118-pascals-triangle](https://github.com/ayushcode191/DSA-Problems/tree/main/0118-pascals-triangle/) | Easy |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ayushcode191/DSA-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/ayushcode191/DSA-Problems/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/ayushcode191/DSA-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/0075-sort-colors/) | Medium |
