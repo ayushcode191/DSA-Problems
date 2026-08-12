@@ -1,4 +1,6 @@
 class Solution {
+    /**
+    1st Solution
     public int removeDuplicates(int[] nums) {
         int start = 1;
         int prev = nums[0];
@@ -31,4 +33,21 @@ class Solution {
         }
         return start;
     }
+    */
+
+    // clean code
+    public int removeDuplicates(int[] nums) {
+        if (nums.length <= 2){
+            return nums.length;
+        }
+        int actualIndex = 2;
+        for (int i = 2; i < nums.length; i++){
+            if (nums[i] != nums[actualIndex - 2]){
+                nums[actualIndex] = nums[i];
+                actualIndex++;
+            }
+        }
+        return actualIndex;
+    }
+
 }
