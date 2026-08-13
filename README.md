@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/ayushcode191/DSA-Problems/tree/main/0118-pascals-triangle/) | Easy |
+| [0169-majority-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ayushcode191/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/ayushcode191/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ayushcode191/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/ayushcode191/DSA-Problems/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushcode191/DSA-Problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/ayushcode191/DSA-Problems/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayushcode191/DSA-Problems/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0015-3sum](https://github.com/ayushcode191/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Dynamic Programming
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -313,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushcode191/DSA-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
