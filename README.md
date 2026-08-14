@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayushcode191/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0027-remove-element/) | Easy |
+| [0055-jump-game](https://github.com/ayushcode191/DSA-Problems/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/ayushcode191/DSA-Problems/tree/main/0118-pascals-triangle/) | Easy |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/ayushcode191/DSA-Problems/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/ayushcode191/DSA-Problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushcode191/DSA-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ayushcode191/DSA-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/ayushcode191/DSA-Problems/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ayushcode191/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
