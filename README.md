@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/ayushcode191/DSA-Problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushcode191/DSA-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0169-majority-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ayushcode191/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/ayushcode191/DSA-Problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushcode191/DSA-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/ayushcode191/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayushcode191/DSA-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ayushcode191/DSA-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/ayushcode191/DSA-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
