@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayushcode191/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/ayushcode191/DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/ayushcode191/DSA-Problems/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayushcode191/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/ayushcode191/DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/ayushcode191/DSA-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ayushcode191/DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/ayushcode191/DSA-Problems/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/ayushcode191/DSA-Problems/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushcode191/DSA-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ayushcode191/DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushcode191/DSA-Problems/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -332,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0169-majority-element/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/ayushcode191/DSA-Problems/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
