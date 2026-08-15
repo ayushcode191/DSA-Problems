@@ -19,26 +19,52 @@ class Solution {
     // }
 
     // 2. DP Approach
+    // public int trap(int[] height) {
+    //     int n = height.length;
+    //     int totWater = 0;
+
+    //     int[] maxL = new int[n];
+    //     int[] maxR = new int[n];
+
+    //     maxL[0] = height[0];
+    //     for(int i=1;i<n;i++){
+    //         maxL[i] = Math.max(maxL[i-1],height[i]);
+    //     }
+
+    //     maxR[n-1] = height[n-1];
+    //     for(int i=n-2;i>=0;i--){
+    //         maxR[i] = Math.max(maxR[i+1],height[i]);
+    //     }
+
+    //     for(int i=0;i<n;i++){
+    //         totWater += Math.min(maxL[i],maxR[i])-height[i];
+    //     }
+    //     return totWater;
+    // }
+
+    // 3. Two Pointer
     public int trap(int[] height) {
         int n = height.length;
         int totWater = 0;
 
-        int[] maxL = new int[n];
-        int[] maxR = new int[n];
+        int l = 0;
+        int r = n-1;
+        int maxL = height[l];
+        int maxR = height[r];
 
-        maxL[0] = height[0];
-        for(int i=1;i<n;i++){
-            maxL[i] = Math.max(maxL[i-1],height[i]);
+        while(l<r){
+            if(height[l] < height[r]){
+                l++;
+                maxL = Math.max(maxL,height[l]);
+                totWater += maxL - height[l];
+            }
+            else{
+                r--;
+                maxR = Math.max(maxR,height[r]);
+                totWater += maxR - height[r];
+            }
         }
 
-        maxR[n-1] = height[n-1];
-        for(int i=n-2;i>=0;i--){
-            maxR[i] = Math.max(maxR[i+1],height[i]);
-        }
-
-        for(int i=0;i<n;i++){
-            totWater += Math.min(maxL[i],maxR[i])-height[i];
-        }
         return totWater;
     }
 
