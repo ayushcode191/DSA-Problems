@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0058-length-of-last-word](https://github.com/ayushcode191/DSA-Problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ayushcode191/DSA-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/ayushcode191/DSA-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
