@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/ayushcode191/DSA-Problems/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/ayushcode191/DSA-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ayushcode191/DSA-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/ayushcode191/DSA-Problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ayushcode191/DSA-Problems/tree/main/0027-remove-element/) | Easy |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/ayushcode191/DSA-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ayushcode191/DSA-Problems/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/ayushcode191/DSA-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
