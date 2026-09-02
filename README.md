@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/ayushcode191/DSA-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0486-predict-the-winner](https://github.com/ayushcode191/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ayushcode191/DSA-Problems/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/ayushcode191/DSA-Problems/tree/main/0009-palindrome-number/) | Easy |
 | [0060-permutation-sequence](https://github.com/ayushcode191/DSA-Problems/tree/main/0060-permutation-sequence/) | Hard |
 | [0189-rotate-array](https://github.com/ayushcode191/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/ayushcode191/DSA-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ayushcode191/DSA-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/ayushcode191/DSA-Problems/tree/main/0146-lru-cache/) | Medium |
