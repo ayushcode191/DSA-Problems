@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/ayushcode191/DSA-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/ayushcode191/DSA-Problems/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ayushcode191/DSA-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayushcode191/DSA-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2906-construct-product-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushcode191/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ayushcode191/DSA-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayushcode191/DSA-Problems/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Math
