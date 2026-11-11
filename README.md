@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ayushcode191/DSA-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/ayushcode191/DSA-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ayushcode191/DSA-Problems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3945-digit-frequency-score](https://github.com/ayushcode191/DSA-Problems/tree/main/3945-digit-frequency-score/) | Easy |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ayushcode191/DSA-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ayushcode191/DSA-Problems/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
