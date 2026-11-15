@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/ayushcode191/DSA-Problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushcode191/DSA-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ayushcode191/DSA-Problems/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushcode191/DSA-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushcode191/DSA-Problems/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ayushcode191/DSA-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushcode191/DSA-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushcode191/DSA-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/ayushcode191/DSA-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/ayushcode191/DSA-Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/ayushcode191/DSA-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/ayushcode191/DSA-Problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ayushcode191/DSA-Problems/tree/main/1015-smallest-integer-divisible-by-k/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/ayushcode191/DSA-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushcode191/DSA-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/ayushcode191/DSA-Problems/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushcode191/DSA-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushcode191/DSA-Problems/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/ayushcode191/DSA-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushcode191/DSA-Problems/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushcode191/DSA-Problems/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ayushcode191/DSA-Problems/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayushcode191/DSA-Problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Divide and Conquer
